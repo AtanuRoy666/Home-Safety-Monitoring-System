@@ -1,0 +1,4 @@
+Proteus Libraries: 
+Gas:	https://www.theengineeringprojects.com/2016/05/gas-sensor-library-proteus.html
+PIR: 	https://www.theengineeringprojects.com/2016/01/pir-sensor-library-proteus.html
+Buzzer: https://github.com/satyamkr80/Buzzer-library-for-proteus

@@ -23,3 +23,5 @@ essential information and transmit it to a smartphone using a web application. D
 the smoke sensor will instantly detect it and will notify us via Bluetooth. Moreover, the smoke sensor will use an LCD to show a message whether everything is fine 
 or not. The advantage of this system is that it covers different areas when it comes to security and it can be easily made using Arduino, sensors, GPIO devices 
 and I/O devices.
+
+Video Demonstration: https://youtu.be/TkvgAzCVPcs
